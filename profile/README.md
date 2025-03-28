@@ -1,3 +1,5 @@
-# YDITS™
+# YDITS&trade;
 
 YDITS is a disaster prevention service that develops applications and other services with the target of quickly providing users with the optimal disaster prevention information.
+
+Operator: [よね/Yone](https://github.com/yone1130/)
